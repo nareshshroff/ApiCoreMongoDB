@@ -1,0 +1,9 @@
+C:\nshroff\projects\ApiCoreMongoDb\ApiCoreMongoDb\bin\Release\netcoreapp1.1\ApiCoreMongoDb.deps.json
+C:\nshroff\projects\ApiCoreMongoDb\ApiCoreMongoDb\bin\Release\netcoreapp1.1\ApiCoreMongoDb.runtimeconfig.json
+C:\nshroff\projects\ApiCoreMongoDb\ApiCoreMongoDb\bin\Release\netcoreapp1.1\ApiCoreMongoDb.runtimeconfig.dev.json
+C:\nshroff\projects\ApiCoreMongoDb\ApiCoreMongoDb\bin\Release\netcoreapp1.1\ApiCoreMongoDb.dll
+C:\nshroff\projects\ApiCoreMongoDb\ApiCoreMongoDb\bin\Release\netcoreapp1.1\ApiCoreMongoDb.pdb
+C:\nshroff\projects\ApiCoreMongoDb\ApiCoreMongoDb\obj\Release\netcoreapp1.1\ApiCoreMongoDb.csprojResolveAssemblyReference.cache
+C:\nshroff\projects\ApiCoreMongoDb\ApiCoreMongoDb\obj\Release\netcoreapp1.1\ApiCoreMongoDb.AssemblyInfo.cs
+C:\nshroff\projects\ApiCoreMongoDb\ApiCoreMongoDb\obj\Release\netcoreapp1.1\ApiCoreMongoDb.dll
+C:\nshroff\projects\ApiCoreMongoDb\ApiCoreMongoDb\obj\Release\netcoreapp1.1\ApiCoreMongoDb.pdb
